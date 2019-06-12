@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: markusschultevalue
+---
+testFramework: junit
+sourceLanguage: java
